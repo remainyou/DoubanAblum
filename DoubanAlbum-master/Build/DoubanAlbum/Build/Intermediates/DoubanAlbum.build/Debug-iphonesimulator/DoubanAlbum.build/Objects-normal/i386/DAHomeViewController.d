@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/ViewController/DAHomeViewController.m \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/ViewController/DAHomeViewController.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/UIImageView+AFNetworking.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/AFImageRequestOperation.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/AFHTTPRequestOperation.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/AFURLConnectionOperation.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/DALoginViewController.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/OAuth2/DOUOAuthService.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/DoubanAuthEngine.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/DAHttpClient.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/AFHTTPClient.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/ViewController/DACategoryViewController.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/ViewController/DAPhotoWallViewController.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/ViewController/DASettingViewController.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/View/Cell/DATagsLayout.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/DAHtmlRobot.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/JSONKit.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/DoubanAPIEngine/OAuth2/DOUOAuthStore.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Support/DAMarksHelper.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Vendor/AFNetworking/AFNetworkActivityIndicatorManager.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Support/Additions/NSStringAddition.h \
+  /Users/Mac2/Desktop/xiangming/Demo研究与整理/DoubanAlbum-master/DoubanAlbum/Classes/Support/Additions/UIView+Indicator.h
